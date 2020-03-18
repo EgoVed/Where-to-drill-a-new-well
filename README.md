@@ -1,7 +1,7 @@
 # Where-to-drill-a-new-well
 Где бурить новую скважину?
 
-http://mopo.lukoil.ru/i/upload_img/media/8/3/15383-image_url-cfcaf6fcd2f62cd05566a33f9615e9de.JPG
+![alt text](http://mopo.lukoil.ru/i/upload_img/media/8/3/15383-image_url-cfcaf6fcd2f62cd05566a33f9615e9de.JPG)
 
 ### Описание проекта
 
